@@ -13,8 +13,7 @@ A motivated Computer Science student from Kasetsart University,Sriracha Campus, 
 -   **Editor &  Control >>** VS Code / Github
   
 -   **Design >>** Figma
-
-  ## ⌨️Language used
+## ⌨️ Language used
 -   HTML / CSS / Javascript / Python
 
 
