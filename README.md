@@ -10,7 +10,8 @@ A motivated Computer Science student from Kasetsart University,Sriracha Campus, 
 ## 🎨 Frontend Development
 -   HTML / CSS / Javascript
 -   React / Tailwind CSS
--   **Design** Figma
+-   **Editor &  Control** >>> VS Code / Github
+-   **Design** >>> Figma
 
 
 
