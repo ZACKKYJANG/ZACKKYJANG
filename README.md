@@ -14,7 +14,7 @@ A motivated Computer Science student from Kasetsart University,Sriracha Campus, 
   
 -   **Design >>** Figma
 
-##    Language used
+  ##    Language used
 -   HTML / CSS / Javascript / Python
 
 
