@@ -1,9 +1,10 @@
-# 👋 Hello, I'm Teeradech
+# 👋 Hello, I'm Teeradech Hewchaiyaphum
 
-## 💻 Position
-- Junior Developer
-- Backend Developer
-- Android Developer
+A motivated Computer Science student from Kasetsart University,
+Sriracha Campus, with a strong interest in Front-End development.
+Highly responsible, detail-oriented, and committed to continuous
+learning and improvement. Eager to apply and grow skills in modern
+web technologies to create clean, user-focused interfaces.
 
 ## 🛠 Skills
 ### Programming Languages
@@ -26,16 +27,3 @@
 - VS Code
 - pgAdmin
 
-## 📚 Currently Learning
-- Cyber Security
-- Operating Systems
-- Web Application Development
-
-## 📂 Projects
-- Car Selling App (Android)
-- Web Backend API
-- Database Management System
-
-## 📫 Contact
-- GitHub: https://github.com/yourusername
-- Email: your@email.com
