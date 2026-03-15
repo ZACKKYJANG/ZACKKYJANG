@@ -10,8 +10,12 @@ A motivated Computer Science student from Kasetsart University,Sriracha Campus, 
 ### 🖥️ Frontend Development 
   
 -   React.js / Next.js / Tailwind CSS
+
+-   HTML / Javascript
   
 -   **Editor &  Control >>** VS Code / Github
+
+-   Responsive Web Design & UI Implementation from Figma
 
 ### 🎨 UX/UI Design
 
@@ -19,7 +23,7 @@ A motivated Computer Science student from Kasetsart University,Sriracha Campus, 
 
 ### ⌨️ Language used
 
--   HTML / CSS / Javascript / Python / C
+-   Vue / CSS / Kotlin / Python / C
 
 
 
