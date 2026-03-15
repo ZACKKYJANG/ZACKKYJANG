@@ -8,8 +8,10 @@ A motivated Computer Science student from Kasetsart University,Sriracha Campus, 
 ## 🛠 Skills
 
 ## 🎨 Frontend Development
--   React.js / Next.js / Tailwind CSS / 
+-   React.js / Next.js / Tailwind CSS
+  
 -   **Editor &  Control >>** VS Code / Github
+  
 -   **Design >>** Figma
 
 ##Language used
