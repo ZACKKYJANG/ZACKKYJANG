@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hello, I'm Teeradech
 
-<!--
-**ZACKKYJANG/ZACKKYJANG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Position
+- Junior Developer
+- Backend Developer
+- Android Developer
 
-Here are some ideas to get you started:
+## 🛠 Skills
+### Programming Languages
+- Java
+- JavaScript
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Framework / Technology
+- Node.js
+- Express.js
+- Android Studio
+
+### Database
+- PostgreSQL
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- pgAdmin
+
+## 📚 Currently Learning
+- Cyber Security
+- Operating Systems
+- Web Application Development
+
+## 📂 Projects
+- Car Selling App (Android)
+- Web Backend API
+- Database Management System
+
+## 📫 Contact
+- GitHub: https://github.com/yourusername
+- Email: your@email.com
