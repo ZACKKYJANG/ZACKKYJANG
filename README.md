@@ -6,7 +6,7 @@ A motivated Computer Science student from Kasetsart University,Sriracha Campus, 
 
 
 ## 🛠 Skills
-<h3>🎨 Frontend Development
+<h4>🎨 Frontend Development
 <li> HTML / CSS / JavaScript
 
 ### Framework / Technology
