@@ -19,7 +19,11 @@ A motivated Computer Science student from Kasetsart University,Sriracha Campus, 
 
 ### 🎨 UX/UI Design
 
--   Figma / Adobe XD / Miro / canva 
+-   Figma / Adobe XD / Miro / canva
+  
+-   UX >> User Research, User Flow, Wireframing, Prototyping
+
+-   UI >> Layout Design, Typography, Color Theory, Responsive Design
 
 ### ⌨️ Language used
 
