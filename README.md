@@ -17,7 +17,7 @@ A motivated Computer Science student from Kasetsart University,Sriracha Campus, 
 
 -   Figma / Adobe XD / Miro / canva 
 
-## ⌨️ Language used
+### ⌨️ Language used
 
 -   HTML / CSS / Javascript / Python / C
 
